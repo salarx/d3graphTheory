@@ -2,8 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9d8fd81-9104-4ada-aa62-7cb91535f689" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/control.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/control.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch/bipartite/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch/bipartite/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch/complete-bipartite/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch/complete-bipartite/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch/complete-graph/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch/complete-graph/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch/connectivity/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch/connectivity/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch/degree-sequence/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch/degree-sequence/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch/eulerian-circuit/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch/eulerian-circuit/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch/eulerian-trail/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch/eulerian-trail/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch/graphic-sequence/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch/graphic-sequence/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch/open-vs-closed/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch/open-vs-closed/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch/order-and-size/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch/order-and-size/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch/regular-graph/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch/regular-graph/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch/rooted-trees/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch/rooted-trees/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch/spanning-tree/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch/spanning-tree/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch/trees/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch/trees/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch/vertices-and-edges/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch/vertices-and-edges/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch/walk/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch/walk/app.js" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,23 +46,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="89" column="26" selection-start-line="89" selection-start-column="26" selection-end-line="89" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ROADMAP.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="230">
-                <caret line="10" column="4" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-              </first_editor>
-              <second_editor />
+            <state relative-caret-position="288">
+              <caret line="97" column="29" selection-start-line="97" selection-start-column="29" selection-end-line="97" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -42,9 +60,38 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="189">
-                <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+                <caret line="18" selection-start-line="18" selection-end-line="18" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ch/k-colorable/app.css">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ch/k-colorable/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="65" column="16" lean-forward="true" selection-start-line="65" selection-start-column="16" selection-end-line="65" selection-end-column="16" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ch/graph-coloring/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4115">
+              <caret line="262" column="12" lean-forward="true" selection-start-line="262" selection-start-column="12" selection-end-line="262" selection-end-column="12" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -62,7 +109,7 @@
         <entry file="file://$PROJECT_DIR$/js/home-app.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-4165">
-              <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+              <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -71,7 +118,7 @@
         <entry file="file://$PROJECT_DIR$/js/content.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="46">
-              <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="19" />
+              <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="19" />
               <folding>
                 <element signature="e#366#373#0" expanded="true" />
                 <element signature="n#style#0;n#span#0;n#li#0;n#ul#0;n#!!top" expanded="true" />
@@ -85,7 +132,7 @@
         <entry file="file://$PROJECT_DIR$/unit.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="697">
-              <caret line="73" column="42" lean-forward="true" selection-start-line="73" selection-start-column="42" selection-end-line="73" selection-end-column="42" />
+              <caret line="73" column="42" selection-start-line="73" selection-start-column="42" selection-end-line="73" selection-end-column="42" />
               <folding>
                 <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -143,6 +190,18 @@
             <path>
               <item name="d3graphTheory" type="b2602c69:ProjectViewProjectNode" />
               <item name="d3graphTheory" type="462c0819:PsiDirectoryNode" />
+              <item name="ch" type="462c0819:PsiDirectoryNode" />
+              <item name="graph-coloring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="d3graphTheory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="d3graphTheory" type="462c0819:PsiDirectoryNode" />
+              <item name="ch" type="462c0819:PsiDirectoryNode" />
+              <item name="k-colorable" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="d3graphTheory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="d3graphTheory" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -186,7 +245,7 @@
       <option name="presentableId" value="Default" />
       <updated>1553796350928</updated>
       <workItem from="1553796360839" duration="2378000" />
-      <workItem from="1553842473767" duration="5379000" />
+      <workItem from="1553842473767" duration="6293000" />
     </task>
     <task id="LOCAL-00001" summary="few updates">
       <created>1553797629082</created>
@@ -199,7 +258,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7757000" />
+    <option name="totallyTimeSpent" value="8671000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -331,34 +390,24 @@
     <entry file="file://$PROJECT_DIR$/js/home-app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-4165">
-          <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/unit.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="697">
-          <caret line="73" column="42" lean-forward="true" selection-start-line="73" selection-start-column="42" selection-end-line="73" selection-end-column="42" />
+          <caret line="73" column="42" selection-start-line="73" selection-start-column="42" selection-end-line="73" selection-end-column="42" />
           <folding>
             <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WORKING.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="189">
-            <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/content.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
-          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="19" />
+          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="19" />
           <folding>
             <element signature="e#366#373#0" expanded="true" />
             <element signature="n#style#0;n#span#0;n#li#0;n#ul#0;n#!!top" expanded="true" />
@@ -376,8 +425,41 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="89" column="26" selection-start-line="89" selection-start-column="26" selection-end-line="89" selection-end-column="26" />
+        <state relative-caret-position="288">
+          <caret line="97" column="29" selection-start-line="97" selection-start-column="29" selection-end-line="97" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WORKING.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="189">
+            <caret line="18" selection-start-line="18" selection-end-line="18" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch/k-colorable/app.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch/graph-coloring/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4115">
+          <caret line="262" column="12" lean-forward="true" selection-start-line="262" selection-start-column="12" selection-end-line="262" selection-end-column="12" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch/k-colorable/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="65" column="16" lean-forward="true" selection-start-line="65" selection-start-column="16" selection-end-line="65" selection-end-column="16" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
