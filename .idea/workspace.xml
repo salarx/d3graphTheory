@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c9d8fd81-9104-4ada-aa62-7cb91535f689" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/d3graphTheory.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/d3graphTheory.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/content.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/content.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/control.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/control.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unit.html" beforeDir="false" afterPath="$PROJECT_DIR$/unit.html" afterDir="false" />
-    </list>
+    <list default="true" id="c9d8fd81-9104-4ada-aa62-7cb91535f689" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -47,7 +39,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-9" />
     <option name="y" value="37" />
     <option name="width" value="1750" />
@@ -123,7 +115,7 @@
       <updated>1553796350928</updated>
       <workItem from="1553796360839" duration="2378000" />
       <workItem from="1553842473767" duration="9477000" />
-      <workItem from="1553855444157" duration="1507000" />
+      <workItem from="1553855444157" duration="1832000" />
     </task>
     <task id="LOCAL-00001" summary="few updates">
       <created>1553797629082</created>
@@ -136,7 +128,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13362000" />
+    <option name="totallyTimeSpent" value="13687000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -148,7 +140,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4985294" visible="true" weight="0.24785195" />
       <window_info id="Structure" order="1" sideWeight="0.50147057" side_tool="true" weight="0.24785195" />
