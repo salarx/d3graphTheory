@@ -9,7 +9,7 @@ $(document).ready(function() {
 
   //query = query string i.e. "?title"
   var query = window.location.search;
-  var home = "vertices-and-edges";
+  var home = "degree-of-vertex";
   if(query.length>1) {
     query = query.substr(1);
     if(!contentData)
